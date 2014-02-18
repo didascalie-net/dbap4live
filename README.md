@@ -7,6 +7,8 @@
 <h1> dbap4live </h1>
 <h2> dbap spatialisation tool inside Ableton Live  </h2>
 </div>
+<h3>Dependancies</h3>
+<strong>You need to have Jamoma installed in your computer for running dbap4live.</strong>
 <h3>Files</h3>
 <ul><li><span style="font-weight: bold; font-style: italic;">dbapSTRack.adg</span> is the device you load on each stereo track you want to spatialize<br>
 </li>
